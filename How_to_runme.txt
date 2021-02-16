@@ -1,0 +1,25 @@
+__authors__: Irené Tematelewo
+
+
+The file "main.py" is the file you should run
+
+** Start by choosing which navigator (greedy or informed) you want to use by setting which_navigator to either 0 or 1 (0 = greedy_navigator and 1 = informed_navigator)
+
+----> which_navigator = 1  # 0 = greedy_navigator; 1 = informed_navigator
+	
+	
+	
+** You can decide to visualize the trajectory found by the navigator by setting plot_trajectories to either True or False
+
+----> plot_trajectories = False
+	
+	
+	
+** Once you have defined the parameters, run the file "main.py"
+
+By default, the code will run 10 episodes with different digits, then compute the average score and display it in the console.
+
+
+-- Thanks!
+
+
